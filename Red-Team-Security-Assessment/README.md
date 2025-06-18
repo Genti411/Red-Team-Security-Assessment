@@ -22,7 +22,7 @@ python apt/simulate_apt.py --target <target_ip>
 python c2/c2_server.py
 ```
 
-### Run Exploit (sample)
+### Run Exploit 
 ```bash
 python exploits/exploit_example.py --target <target_ip>
 ```
